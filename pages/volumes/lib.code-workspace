@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "lib",
+		"path": "../../../../../Downloads/resources 2/lib"
+	},
+	{
+		"name": "lotr-app",
+		"path": "../.."
+	},
+	{
+		"name": "public",
+		"path": "../../../../../Downloads/resources 2/public"
+	}
+],
+  "settings": {}
+}
